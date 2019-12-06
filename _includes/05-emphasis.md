@@ -1,1 +1,2 @@
-Write out some of your awesome attributes, and use emphasis (like bold or italics) to identify keywords, programming languages, or skills. 
+* **Public Cloud Experience**_-Amazon Web Services, Google Compute Platform_
+* *Managing deployments and performance tuining of a high scalable web service environment,preferably* __Python__
